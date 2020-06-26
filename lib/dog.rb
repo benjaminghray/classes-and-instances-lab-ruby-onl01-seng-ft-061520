@@ -1,5 +1,5 @@
 class dog 
-  attr_accessor:dog_names
-  @dog_names=dog_names
-  
-  def initialize()
+end
+fido=dog.new 
+snoopy=dog.new
+lassie=dog.new 
